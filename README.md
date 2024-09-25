@@ -42,7 +42,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/21fa423e-8a92-462e-89b7-f3173e4580fa)
+![image](https://github.com/user-attachments/assets/6b044de4-228a-4bc3-8447-6dd788df7209)
+
 
 
 ## RESULT: 
