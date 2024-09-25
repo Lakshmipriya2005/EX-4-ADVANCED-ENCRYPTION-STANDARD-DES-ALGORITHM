@@ -43,7 +43,7 @@ return 0;
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-25 155910](https://github.com/user-attachments/assets/50c2f048-99d6-4559-b5e7-6b9dcad6d4be)
+![image](https://github.com/user-attachments/assets/b9a5cd6b-bb13-4e82-acff-661c3fd4e6f9)
 
 ## RESULT: 
 Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
