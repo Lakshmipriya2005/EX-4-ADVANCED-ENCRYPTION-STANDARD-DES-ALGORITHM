@@ -25,7 +25,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "https://lms2.cse.saveetha.in/";
+char url[] = "https://training.saveetha.in/";
 char key[] = "secretkey"; // Simple key for XOR encryption
 
 printf("Original URL: %s\n", url);
